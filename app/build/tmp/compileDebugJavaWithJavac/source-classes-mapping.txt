@@ -1,0 +1,24 @@
+com/example/android/activityscenetransitionbasic/ViewStateSaver.java
+ com.example.android.activityscenetransitionbasic.ViewStateSaver
+ com.example.android.activityscenetransitionbasic.ViewStateSaver$1
+com/example/android/activityscenetransitionbasic/TextViewStateSaver.java
+ com.example.android.activityscenetransitionbasic.TextViewStateSaver
+com/example/android/activityscenetransitionbasic/SquareFrameLayout.java
+ com.example.android.activityscenetransitionbasic.SquareFrameLayout
+com/example/android/activityscenetransitionbasic/DetailActivity.java
+ com.example.android.activityscenetransitionbasic.DetailActivity
+ com.example.android.activityscenetransitionbasic.DetailActivity$1
+ com.example.android.activityscenetransitionbasic.DetailActivity$TextviewTransition
+ com.example.android.activityscenetransitionbasic.DetailActivity$TextviewTransition$1
+ com.example.android.activityscenetransitionbasic.DetailActivity$TextviewTransition$2
+com/example/android/activityscenetransitionbasic/MainActivity.java
+ com.example.android.activityscenetransitionbasic.MainActivity
+ com.example.android.activityscenetransitionbasic.MainActivity$1
+ com.example.android.activityscenetransitionbasic.MainActivity$GridAdapter
+com/example/android/activityscenetransitionbasic/BuildConfig.java
+ com.example.android.activityscenetransitionbasic.BuildConfig
+com/example/android/activityscenetransitionbasic/Item.java
+ com.example.android.activityscenetransitionbasic.Item
+com/example/android/activityscenetransitionbasic/ShareElementInfo.java
+ com.example.android.activityscenetransitionbasic.ShareElementInfo
+ com.example.android.activityscenetransitionbasic.ShareElementInfo$1

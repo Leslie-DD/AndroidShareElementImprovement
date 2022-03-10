@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/layout_grid.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/layout/grid.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/layout_details.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/layout/details.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/layout_grid_item.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/transition_grid_detail_transition.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/transition/grid_detail_transition.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/animation-samples-master/ActivitySceneTransitionBasic/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
