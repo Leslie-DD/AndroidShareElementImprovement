@@ -1,46 +1,7 @@
 
-Android ActivitySceneTransitionBasic Sample
+Android Activity共享元素动画跳转 针对TextView过度优化
 ===================================
 
-This sample shows how to use scene transitions from one Activity to another in Lollipop.
-Uses a combination of changeImageTransform and changeBounds to transition a grid of images
-to an Activity with a large image and detail text.
+> 本项目基于Google Demo，优化了两个不同大小颜色的TextView的过度动画
 
-Introduction
-------------
-
-Android Lollipop has introduced the ability to transition between activities by using a shared element.
-This sample demonstrates how to do this using the theme of your application.
-
-See [Defining Custom Animations][1] for all the details on how to do this.
-
-[1]: https://developer.android.com/training/material/animations.html#Transitions
-
-Pre-requisites
---------------
-
-- Android SDK 28
-- Android Build Tools v28.0.3
-- Android Support Repository
-
-Screenshots
--------------
-
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-transition.png" height="400" alt="Screenshot"/> <img src="screenshots/3-transition.png" height="400" alt="Screenshot"/> <img src="screenshots/4-detail.png" height="400" alt="Screenshot"/> 
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/android/animation
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+详细说明见[【Android】共享元素 share elements TextView颜色大小动画过度](https://blog.csdn.net/qq_40313347/article/details/123384872)
