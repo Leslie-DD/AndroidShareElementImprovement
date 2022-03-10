@@ -11,3 +11,4 @@ Android Activity共享元素动画跳转 针对TextView过度优化
 
 ## 优化后效果
 <img src="screenshots/after.gif height="400" alt="Screenshot"/>
+[after](screenshots/after.gif)
